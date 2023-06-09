@@ -1,0 +1,26 @@
+/* Estilos para la tabla y los botones */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+#agregarBtn {
+  margin-top: 10px;
+}
+
+/* Estilos adicionales */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+
